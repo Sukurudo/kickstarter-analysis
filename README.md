@@ -7,7 +7,7 @@ We are analyzing kickstarter data to help optimize a upcoming campaign for the P
 ##Summary
 Based on our analysis, we can conclude that opening the campaign in May would give the best chance of success. Theatre campaigns do their best starting in may, and begin to lower their success rate from June through the end of the year; of he 166 theatre campaigns launched in May, 111 of them were successful.
 
-![Theatre Outcomes based on Launch Month in the US](Outcomes%20Based%20on%20Launch Date-Theatre.png)
+![Theatre Outcomes based on Launch Month in the US](Outcomes%20Based%20on%20Launch%20Date-Theatre.png)
 
 Fever has a high chance of success; There were 525 Successful Theatre campaigns, and 412 of those were Plays.
 ![US Theatre Campaigns](Parent%20Category%20Outcomes-US%20Theatre.png)
