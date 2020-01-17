@@ -8,6 +8,3 @@ Based on our analysis, we can conclde that opeing the campaign in May would give
 
 ### Stuff
 
-![image](/Outcomes Based on Launch Date-Theatre.png)
-
-![image](/Parent Category Outcomes.png)
